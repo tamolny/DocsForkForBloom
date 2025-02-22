@@ -38,7 +38,8 @@ __Terminology__
 
 :::warning
 
-The serverpack should NOT have a double folder inside of it. Instead it should have the Mods, Configs, Default configs, (Optional folders) Kubejs, Tacz, Etc. and start files. Feel free to ask for help inside #community-support in the [Bloom discord server](https://bloom.host/discord)
+The serverpack should NOT have a double folder inside of it. Instead it should have the Mods, Configs, Default configs, (Optional folders) Kubejs, Tacz, Etc. and start files. 
+Feel free to ask for help inside #community-support in the [Bloom discord server](https://bloom.host/discord)
 :::
 
 4. Install the correct server information via the settings tab on your panel. 
