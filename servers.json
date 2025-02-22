@@ -1,0 +1,203 @@
+[
+        {
+                "name": "Magbungkal.net",
+                "ip": "play.magbungkal.net",
+                "type": "PC"
+        },
+        {
+                "name": "CrackSMP",
+                "ip": "play.cracksmp.net",
+                "type": "PC"
+        },
+        {
+                "name": "BozoKits2",
+                "ip": "nolag.bozokits.net",
+                "type": "PC"
+        },
+        {
+                "name": "BozoKits",
+                "ip": "bozokits.net",
+                "type": "PC"
+        },
+        {
+                "name": "Advanced-Kind",
+                "ip": "play.advanced-kind.com",
+                "type": "PC"
+        },
+        {
+                "name": "NostalgiaCraft",
+                "ip": "mc.nostalgiacraft.fun",
+                "type": "PC"
+        },
+        {
+                "name": "DemocracyCraft",
+                "ip": "play.democracycraft.net",
+                "type": "PC"
+        },
+        {
+                "name": "HearthCraft",
+                "ip": "play.hearthcraft.net",
+                "type": "PC"
+        },
+        {
+                "name": "Vibezone",
+                "ip": "134.195.42.25",
+                "type": "PC"
+        },
+        {
+                "name": "ClubhouseMC",
+                "ip": "clubhousemc.com",
+                "type": "PC"
+        },
+        {
+                "name": "PopCraft",
+                "ip": "mc.popcraft.org",
+                "type": "PC"
+        },
+        {
+                "name": "CentileHCF",
+                "ip": "play.centilemc.me",
+                "port": 19132,
+                "type": "PE"
+        },
+        {
+                "name": "ChumCraft",
+                "ip": "play.ChumCraft.com",
+                "type": "PC"
+        },
+        {
+                "name": "Forgotten Times",
+                "ip": "forgottentimes.minecraft.best",
+                "type": "PC"
+        },
+        {
+                "name": "LightRealms",
+                "ip": "play.lightrealms.co",
+                "type": "PC"
+        },
+        {
+                "name": "CottageCraft",
+                "ip": "23.158.176.119",
+                "type": "PC"
+        },
+        {
+                "name": "Bloof.xyz",
+                "ip": "Bloof.xyz",
+                "type": "PC"
+        },
+        {
+                "name": "StarWarsMC",
+                "ip": "play.starwarsmc.org",
+                "type": "PC"
+        },
+        {
+                "name": "PogDream",
+                "ip": "evildream.net",
+                "type": "PC"
+        },
+        {
+                "name": "EterniaServer Survival",
+                "ip": "jogar.eterniaserver.com.br",
+                "type": "PC"
+        },
+        {
+                "name": "CatCraft Survival",
+                "ip": "mc.catcraft.net",
+                "type": "PC"
+        },
+        {
+                "name": "Versenity Games",
+                "ip": "play.versenitygames.net",
+                "type": "PC"
+        },
+        {
+                "name": "RiftMC",
+                "ip": "riftmc.co",
+                "type": "PC"
+        },
+        {
+                "name":  "No Mans Land MC",
+                "ip": "Play.nmlmc.com",
+                "type": "PC"
+        },
+        {
+                "name":  "LegionMC",
+                "ip": "legionmc.club",
+                "type": "PC"
+        },
+        {
+                "name":  "HavenMC",
+                "ip": "play.haven-mc.net",
+                "type": "PC"
+        },
+        {
+                "name": "The Spot SMP",
+                "ip": "thespotsmp.com",
+                "type": "PC"
+        },
+        {
+                "name": "StriderCraft",
+                "ip": "play.stridercraft.net",
+                "type": "PC"
+        },
+        {
+                "name": "OneBlock France",
+                "ip": "oneblockfrance.fr",
+                "type": "PC"
+        },
+        {
+                "name": "Endercube",
+                "ip": "mc.endercube.net",
+                "type": "PC"
+        },
+        {
+                "name": "SecretSMP",
+                "ip": "secretsmp.org",
+                "type": "PC"
+        },
+        {
+                "name": "AureliumMC",
+                "ip": "Play.AureliumMC.com",
+                "type": "PC"
+        },
+        {
+                "name": "Parallel",
+                "ip": "play.parallelmc.org",
+                "type": "PC"
+        },
+        {
+                "name": "MinecraftPlanetEarth",
+                "ip": "mc.minecraftplanetearth.com",
+                "type": "PC"
+        },
+        {
+                "name": "LucidMC",
+                "ip": "mc.lucidmc.org",
+                "type": "PC"
+        },
+        {
+                "name": "Dotarch",
+                "ip": "play.dotarch.co",
+                "type": "PC"
+        },
+        {
+                "name": "MagmaMC",
+                "ip": "play.magmamc.net",
+                "type": "PC"
+        },
+        {
+                "name": "HibiscusMC",
+                "ip": "play.hibiscusmc.com",
+                "type": "PC"
+        },        
+        {
+                "name": "The Chunk",
+                "ip": "play.chunkmc.com",
+                "type": "PC"
+        },
+        {
+                "name": "Frostcast Revival",
+                "ip": "play.frostcast.network",
+                "type": "PC"
+        }  
+]
