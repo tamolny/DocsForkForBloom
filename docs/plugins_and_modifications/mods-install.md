@@ -4,7 +4,7 @@ title: Server Mods
 slug: /mods-install
 hide_table_of_contents: true
 sidebar_label: Installing Mods
-description: How to install minecraft mods on your forge/fabric server.
+description: How to install minecraft mods on your forge/fabric/neoforge server.
 keywords:
   - Template
   - Bloom.host
@@ -12,6 +12,7 @@ keywords:
   - Minecraft
   - Fabric
   - Forge
+  - Neoforge
   - Mods
 ---
 # Install Guide
